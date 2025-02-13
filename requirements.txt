@@ -1,0 +1,7 @@
+Python 3.x
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+SciPy
